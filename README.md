@@ -1,4 +1,4 @@
-# Simulation du Système Solaire aec l'astéroide 2024 YR4
+# Simulation du Système Solaire avec l'astéroide 2024 YR4
 
 ## Description
 
